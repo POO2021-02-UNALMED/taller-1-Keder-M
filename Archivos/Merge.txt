@@ -1,3 +1,5 @@
 Keder Julián Madera polo
 20 Años
 Aprender programación orientada a objetos y aspectos importantes para el desarrollo de mi carrera.
+
+Hay que tener cuidado con modificar dos archivos al mismo tiempo porque podemos perder información.
